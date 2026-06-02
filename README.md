@@ -98,7 +98,7 @@ En Railway, usar las referencias automáticas:
 4. **+ New** → **Database** → **Add PostgreSQL**
 5. En el servicio app → **Variables** → agregar las 4 variables de la tabla anterior
 6. **Settings** → **Networking** → **Generate Domain**
-7. Verificar: `curl https://<tu-app>.up.railway.app/actuator/health`
+7. Verificar: `https://jimenez-post1-u12.onrender.com`
 
 ---
 
