@@ -3,7 +3,7 @@
 ![CI/CD Status](https://github.com/OctopusZeroKanagawa/Jimenez-post2-u12/actions/workflows/ci.yml/badge.svg)
 
 **Programación Web — Unidad 12: Despliegue y CI/CD**  
-**Post-Contenido 1 — Contenedorizar la Aplicación Spring Boot y Desplegar en Railway**  
+**Post-Contenido 2 — Pipeline CI/CD con GitHub Actions y Docker Hub**  
 **Autor:** Andres Felipe Jimenez Ramirez  
 **Universidad Francisco de Paula Santander — 2026**
 
@@ -126,4 +126,5 @@ En Railway, usar las referencias automáticas:
 | GET    | /actuator/health         | Estado de salud de la app     |
 
 ---
+
 
