@@ -18,6 +18,14 @@ El pipeline realiza automáticamente:
 4. Construcción de imagen Docker.
 5. Publicación en Docker Hub.
 ---
+## Entregables
+
+| Documento | Enlace |
+|------------|---------|
+| Informe PDF | [Abrir](./Informe-1152219-pdf) |
+| Imagen Docker | docker pull almcafe/catalogo:latest |
+
+---
 ## Tecnologías
 
 | Tecnología        | Versión       | Rol                                         |
