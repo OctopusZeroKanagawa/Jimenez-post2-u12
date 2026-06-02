@@ -1,4 +1,6 @@
-# jimenez-post1-u12
+# Catalogo Spring Boot
+
+![CI/CD Status](https://github.com/OctopusZeroKanagawa/Jimenez-post2-u12/actions/workflows/ci.yml/badge.svg)
 
 **Programación Web — Unidad 12: Despliegue y CI/CD**  
 **Post-Contenido 1 — Contenedorizar la Aplicación Spring Boot y Desplegar en Railway**  
@@ -6,7 +8,17 @@
 **Universidad Francisco de Paula Santander — 2026**
 
 ---
+## Pipeline CI/CD
 
+El pipeline realiza automáticamente:
+
+1. Compilación Maven.
+2. Pruebas unitarias.
+3. Generación de reporte JaCoCo.
+4. Construcción de imagen Docker.
+5. Publicación en Docker Hub.
+
+---
 ## Tecnologías
 
 | Tecnología        | Versión       | Rol                                         |
