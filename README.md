@@ -17,7 +17,6 @@ El pipeline realiza automáticamente:
 3. Generación de reporte JaCoCo.
 4. Construcción de imagen Docker.
 5. Publicación en Docker Hub.
-
 ---
 ## Tecnologías
 
@@ -126,5 +125,6 @@ En Railway, usar las referencias automáticas:
 | GET    | /actuator/health         | Estado de salud de la app     |
 
 ---
+
 
 
