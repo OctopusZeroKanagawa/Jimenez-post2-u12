@@ -22,7 +22,7 @@ El pipeline realiza automáticamente:
 
 | Documento | Enlace |
 |------------|---------|
-| Informe PDF | [Abrir](./Informe-1152219-pdf) |
+| Informe PDF | [Abrir](./Informe-1152219.pdf) |
 | Imagen Docker | docker pull almcafe/catalogo:latest |
 
 ---
